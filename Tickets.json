@@ -1,0 +1,24 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "title": "no net",
+      "description": "speed issue",
+      "priority": "medium",
+      "status": "close",
+      "email": "user1@gmail.com",
+      "resolvedBy": "tech@gmail.com",
+      "role": "tech-support"
+    },
+    {
+      "id": "2",
+      "title": "current issues",
+      "description": "ssdsda",
+      "priority": "medium",
+      "status": "resolved",
+      "email": "user1@gmail.com",
+      "resolvedBy": "tech@gmail.com",
+      "role": "tech-support"
+    }
+  ]
+}
